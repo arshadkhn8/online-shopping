@@ -10,4 +10,19 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static void Display() {
+    	
+    	System.out.println("hehfehfhfhfhffh");
+    }
+    
+public static void Display1() {
+    	
+    	System.out.println("hehfehfhfhfhffh");
+    }
+
+public static void Display2() {
+	
+	System.out.println("hehfehfhfhfhffh");
+}
 }
